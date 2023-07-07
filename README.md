@@ -14,6 +14,11 @@
 
 </div>
 
+<p align="center">
+  <img src="img.jpg" width="100%"/>
+  <br>
+</p>
+
 <br>
 
 <div align="center">
