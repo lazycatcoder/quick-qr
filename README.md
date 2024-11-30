@@ -8,7 +8,7 @@
 
    **Quick QR** is a Google Chrome extension that generates a QR code for the current web page and lets you save it as a PNG image.
 
-   The principle of operation is to get the current URL of a web page and use the Google Chart API service to generate a QR code. The extension also allows you to save the QR code as an image on the user's computer or laptop.
+   The principle of operation is to get the current URL of a web page and use the QR code generation service. The extension also allows you to save the QR code as an image on the user's computer or laptop.
 
    The advantages of the **Quick QR** extension are its simplicity and ease of use. It can be useful in many situations where you want to quickly and conveniently convey information about a web page, such as quickly opening a link on your phone, sharing a link with another user, creating promotional materials, etc. Also, QR codes can be saved and later used, for example, for quick access to educational materials in classrooms, courses, trainings, etc. This is convenient and saves time, since you do not need to type long links manually, but you can simply scan the QR code and go to the materials.
 
